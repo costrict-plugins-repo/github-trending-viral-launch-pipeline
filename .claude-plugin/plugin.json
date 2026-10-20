@@ -1,0 +1,25 @@
+{
+  "name": "viral-launch-pipeline",
+  "description": "21-agent viral product-launch pipeline. Orchestrator skill that runs research → hook → giveaway → body → specialist critique → manager review → mom-test → multi-channel delivery (X-thread, LinkedIn, ProductHunt). Manager loops force rewrites until the rubric passes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mike Koz",
+    "url": "https://github.com/mixvlad"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Koz-TV/viral-launch-pipeline",
+  "keywords": [
+    "launch",
+    "viral",
+    "marketing",
+    "x-thread",
+    "twitter",
+    "producthunt",
+    "linkedin",
+    "claude-skills",
+    "agents",
+    "orchestration",
+    "hook-writer",
+    "mom-test"
+  ]
+}

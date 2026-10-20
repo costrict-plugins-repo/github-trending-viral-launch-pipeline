@@ -1,0 +1,40 @@
+{
+  "name": "viral-launch-pipeline",
+  "owner": {
+    "name": "Mike Koz",
+    "url": "https://github.com/mixvlad"
+  },
+  "metadata": {
+    "description": "21-agent Claude Code pipeline for viral product launches: deep research, manager-critiqued hooks, weapons-checked body, mom-test, multi-channel delivery."
+  },
+  "plugins": [
+    {
+      "name": "viral-launch-pipeline",
+      "source": "./",
+      "description": "One orchestrator skill that fires 21 sub-agents in sequence: Brand Brief → Keywords → YouTube/X/Reddit/Industry research (parallel) → Research Compiler → Hook Writer + Manager → Giveaway Writer + Manager → Call Supervisor (mid) → Body Writer + Weapons/Controversy/Technical/Flow specialists + Body Manager → Mom Test → Call Supervisor (late) → Final Review → multi-channel Deliver (X-thread + LinkedIn post + ProductHunt). Manager loops max 3 iterations, Mom Test 1 kickback, full paper trail, resumable.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mike Koz",
+        "url": "https://github.com/mixvlad"
+      },
+      "homepage": "https://github.com/Koz-TV/viral-launch-pipeline",
+      "license": "MIT",
+      "keywords": [
+        "launch",
+        "viral",
+        "marketing",
+        "x-thread",
+        "twitter",
+        "producthunt",
+        "linkedin",
+        "claude-skills",
+        "anthropic",
+        "ai-agents",
+        "hook-writer",
+        "mom-test",
+        "orchestration"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

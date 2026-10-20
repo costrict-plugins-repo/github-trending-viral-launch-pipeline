@@ -1,0 +1,5 @@
+launches/
+.DS_Store
+*.swp
+node_modules/
+__pycache__/
